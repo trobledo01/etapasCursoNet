@@ -1,0 +1,15 @@
+D:\OneDrive - Universidad Autonoma de Nuevo León\libros facu\dotnet\CursoNet\etapas\Etapa_1\bin\Debug\net6.0\Etapa_1.exe
+D:\OneDrive - Universidad Autonoma de Nuevo León\libros facu\dotnet\CursoNet\etapas\Etapa_1\bin\Debug\net6.0\Etapa_1.deps.json
+D:\OneDrive - Universidad Autonoma de Nuevo León\libros facu\dotnet\CursoNet\etapas\Etapa_1\bin\Debug\net6.0\Etapa_1.runtimeconfig.json
+D:\OneDrive - Universidad Autonoma de Nuevo León\libros facu\dotnet\CursoNet\etapas\Etapa_1\bin\Debug\net6.0\Etapa_1.dll
+D:\OneDrive - Universidad Autonoma de Nuevo León\libros facu\dotnet\CursoNet\etapas\Etapa_1\bin\Debug\net6.0\Etapa_1.pdb
+D:\OneDrive - Universidad Autonoma de Nuevo León\libros facu\dotnet\CursoNet\etapas\Etapa_1\obj\Debug\net6.0\Etapa_1.csproj.AssemblyReference.cache
+D:\OneDrive - Universidad Autonoma de Nuevo León\libros facu\dotnet\CursoNet\etapas\Etapa_1\obj\Debug\net6.0\Etapa_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Universidad Autonoma de Nuevo León\libros facu\dotnet\CursoNet\etapas\Etapa_1\obj\Debug\net6.0\Etapa_1.AssemblyInfoInputs.cache
+D:\OneDrive - Universidad Autonoma de Nuevo León\libros facu\dotnet\CursoNet\etapas\Etapa_1\obj\Debug\net6.0\Etapa_1.AssemblyInfo.cs
+D:\OneDrive - Universidad Autonoma de Nuevo León\libros facu\dotnet\CursoNet\etapas\Etapa_1\obj\Debug\net6.0\Etapa_1.csproj.CoreCompileInputs.cache
+D:\OneDrive - Universidad Autonoma de Nuevo León\libros facu\dotnet\CursoNet\etapas\Etapa_1\obj\Debug\net6.0\Etapa_1.dll
+D:\OneDrive - Universidad Autonoma de Nuevo León\libros facu\dotnet\CursoNet\etapas\Etapa_1\obj\Debug\net6.0\refint\Etapa_1.dll
+D:\OneDrive - Universidad Autonoma de Nuevo León\libros facu\dotnet\CursoNet\etapas\Etapa_1\obj\Debug\net6.0\Etapa_1.pdb
+D:\OneDrive - Universidad Autonoma de Nuevo León\libros facu\dotnet\CursoNet\etapas\Etapa_1\obj\Debug\net6.0\Etapa_1.genruntimeconfig.cache
+D:\OneDrive - Universidad Autonoma de Nuevo León\libros facu\dotnet\CursoNet\etapas\Etapa_1\obj\Debug\net6.0\ref\Etapa_1.dll
